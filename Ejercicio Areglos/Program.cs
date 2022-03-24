@@ -6,7 +6,9 @@ namespace Ejercicio_Areglos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var camilo = new Player(1, "camilo3312");
+            var luis = new Player(1, "camilo3312");
         }
+
     }
 }
