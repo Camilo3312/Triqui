@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aTiad43Hxwn7DEePOsnNYtDGSzzJlaCJ8r78nIrY08WTnuBYkjYebvXvuKWKgcf0HKGw7VWGvB+NgaM4Z3rf9A==",
+  "dgSpecHash": "aZ/tbb5QWsmg2ppP62K7Rb20YxFVdFrF1szydbzxXWrBGWlQ+ILbV8X2QVRRWymTLP3lfa5gO86HuarKwPrs6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Camilo\\source\\repos\\Ejercicio Areglos\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
