@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj": {}
+    "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj": {
+    "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+        "projectUniqueName": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
         "projectName": "Ejercicio Areglos",
-        "projectPath": "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
-        "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\obj\\",
+        "projectPath": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+        "packagesPath": "C:\\Users\\hp ryzen 5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp ryzen 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,30 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.14, 5.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

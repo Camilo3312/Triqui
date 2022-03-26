@@ -8,10 +8,14 @@ namespace Ejercicio_Areglos
 {
     public class Positions
     {
-        private int Id { get; set; }
-        private string Name { get; set; }
+        public int position { get; set; }
+        public bool Available { get; set; }
 
-        
+        public Positions(int id, bool availability)
+        {
+            this.position = id;
+            this.Available = availability;
+        }
 
     }
 

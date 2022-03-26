@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZ/tbb5QWsmg2ppP62K7Rb20YxFVdFrF1szydbzxXWrBGWlQ+ILbV8X2QVRRWymTLP3lfa5gO86HuarKwPrs6A==",
+  "dgSpecHash": "6d6gsMwsOm/1RjP561KaXDbel+3nuR1MFoqjFJq3VuiJxUEo5EeRygtVrWNpKj5oVLdoPwDn9Z+MZm/LYncbAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adsi\\Desktop\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\adsi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
