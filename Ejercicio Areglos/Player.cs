@@ -6,22 +6,27 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_Areglos
 {
-    public class Player : Board
+    public class Player
     {
         public int id { get; set; }
         public string username { get; set; }
         public List<int> userPositions { get; set; }
 
-        public Player (int id_, string username_) : base (3,3)
+        Board board = new Board();
+
+        public Player (int id_, string username_, Board board_) 
         {
-            id = id_;
-            username = username_;
+            this.id = id_;
+            this.username = username_;
+            this.board = board_;
+
+            userPositions = new List<int> { 0 };
         }
 
         public void pushPositionToTable(int posToFind)
         {
-            bool playerSetter = true;
-            List<Positions> availablePositions = getPositions();
+            bool playerSetter = board.getPlayerSetter();
+            List<Positions> availablePositions = board.getPositions();
 
             int availablePos = availablePositions.FindIndex(x => x.position == posToFind && x.Available == true);
 
@@ -29,36 +34,39 @@ namespace Ejercicio_Areglos
             {
                 userPositions.Add(posToFind);
                 availablePositions[availablePos].Available = false;
-                List<int> tablePos = ReasignPos(posToFind);
+                List<int> tablePos = board.ReasignPos(posToFind);
                 if (playerSetter)
                 {
-                    setValue(1,tablePos[0], tablePos[1]);
-                    playerSetter = !playerSetter;
+                    board.setValue('X',tablePos[0], tablePos[1]);
+                    board.setPlayerSetter(false);
                 }
                 else
                 {
-                    setValue(2, tablePos[0], tablePos[1]);
-                    playerSetter = !playerSetter;
+                    board.setValue('O', tablePos[0], tablePos[1]);
+                    board.setPlayerSetter(true);
                 }
             }
-
         }
 
         public bool setWinner()
         {
-            List<int[]> posibilitiesToWin = getWinPosibilities();
+            List<int[]> posibilitiesToWin = board.getWinPosibilities();
+
             foreach (var item in posibilitiesToWin)
             {
-                int[] winningPositions;
-                foreach (var position in item)
+                var secondNotFirst = item.Except(userPositions).ToList();
+
+                if (secondNotFirst.Count > 0)
                 {
-                    winningPositions.CopyTo(userPositions.Where(i => posibilitiesToWin.Contains(item)).ToArray(),0);
+                    secondNotFirst.Clear();
                 }
-                if (winningPositions == item)
+                else if (secondNotFirst.Count == 0)
                 {
+                    board.setWinner(this.username);
                     return true;
                 }
             }
+            return false;
         }
 
     }

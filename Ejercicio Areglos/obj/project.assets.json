@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp ryzen 5\\.nuget\\packages\\": {}
+    "C:\\Users\\Camilo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Triqui 2.0\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
       "projectName": "Ejercicio Areglos",
-      "projectPath": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
-      "packagesPath": "C:\\Users\\hp ryzen 5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp ryzen 5\\Source\\Repos\\Triqui\\Ejercicio Areglos\\obj\\",
+      "projectPath": "C:\\Users\\Camilo\\Desktop\\Triqui 2.0\\Ejercicio Areglos\\Ejercicio Areglos.csproj",
+      "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Camilo\\Desktop\\Triqui 2.0\\Ejercicio Areglos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp ryzen 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,32 @@
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.exe
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.deps.json
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.runtimeconfig.json
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\ref\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.pdb
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\ref\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.pdb
+C:\Users\Camilo\Desktop\Triqui\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.genruntimeconfig.cache
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.exe
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.deps.json
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.runtimeconfig.json
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.runtimeconfig.dev.json
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\ref\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\bin\Debug\net5.0\Ejercicio Areglos.pdb
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.csproj.AssemblyReference.cache
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.AssemblyInfoInputs.cache
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.AssemblyInfo.cs
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\ref\Ejercicio Areglos.dll
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.pdb
+C:\Users\Camilo\Desktop\Triqui 2.0\Ejercicio Areglos\obj\Debug\net5.0\Ejercicio Areglos.genruntimeconfig.cache
